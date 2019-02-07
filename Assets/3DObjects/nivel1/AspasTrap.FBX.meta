@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 0b3855eb4a5460f4e8733f09619e0c74
+timeCreated: 1528578636
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Altar
+    100002: Aspas
+    100004: //RootNode
+    100006: CentroAspas
+    100008: MuroAltar
+    100010: MuroEsquina
+    100012: MuroSuelo
+    100014: MuroVentanas
+    100016: PaloBandera
+    100018: Pared
+    100020: PlataformaInit
+    100022: Puerta
+    100024: SueloDelantePuerta
+    100026: SueloPuerta
+    100028: VaporTrap
+    400000: Altar
+    400002: Aspas
+    400004: //RootNode
+    400006: CentroAspas
+    400008: MuroAltar
+    400010: MuroEsquina
+    400012: MuroSuelo
+    400014: MuroVentanas
+    400016: PaloBandera
+    400018: Pared
+    400020: PlataformaInit
+    400022: Puerta
+    400024: SueloDelantePuerta
+    400026: SueloPuerta
+    400028: VaporTrap
+    2100000: No Name
+    2300000: Altar
+    2300002: Aspas
+    2300004: CentroAspas
+    2300006: MuroAltar
+    2300008: MuroEsquina
+    2300010: MuroSuelo
+    2300012: MuroVentanas
+    2300014: PaloBandera
+    2300016: Pared
+    2300018: PlataformaInit
+    2300020: Puerta
+    2300022: SueloDelantePuerta
+    2300024: SueloPuerta
+    2300026: VaporTrap
+    3300000: Altar
+    3300002: Aspas
+    3300004: CentroAspas
+    3300006: MuroAltar
+    3300008: MuroEsquina
+    3300010: MuroSuelo
+    3300012: MuroVentanas
+    3300014: PaloBandera
+    3300016: Pared
+    3300018: PlataformaInit
+    3300020: Puerta
+    3300022: SueloDelantePuerta
+    3300024: SueloPuerta
+    3300026: VaporTrap
+    4300000: PlataformaInit
+    4300002: Puerta
+    4300004: MuroAltar
+    4300006: SueloPuerta
+    4300008: SueloDelantePuerta
+    4300010: PaloBandera
+    4300012: MuroSuelo
+    4300014: MuroEsquina
+    4300016: MuroVentanas
+    4300018: VaporTrap
+    4300020: Altar
+    4300022: Pared
+    4300024: CentroAspas
+    4300026: Aspas
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

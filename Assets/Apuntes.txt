@@ -1,0 +1,5 @@
+descargar de github post processing pack
+
+-añadir componente post proccess
+-perfil de post proceso (duplicar el antiguo)
+-desactivar debug views
